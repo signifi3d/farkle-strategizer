@@ -1,0 +1,4 @@
+# farkle-strategizer
+I was playing the game Kingdom Come that has a sidegame where you can wager money on games of a simplistic version of Farkle. I wrote this little program to test different playing strategies against each other to see which one would give me the best chance of winning. You run playFarkle.py, input which strategies you want to play against each other (there's really only the two, RSKY and CONS) and you can also choose to participate yourself by including BASE. Then enter D when you're done and choose how many games you want them to play against each other. It'll take a minute to run depending on how many iterations you chose and will spit out who got the best of the other in the end.
+
+I don't pick this up anymore since the strategy I found early on worked out pretty well in the game.
